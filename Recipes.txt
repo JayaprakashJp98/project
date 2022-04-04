@@ -5,5 +5,7 @@ pasta
 fried rice
 chicken rice
 
+beans
+pizza
 
 Thank you...!
